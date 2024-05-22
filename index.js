@@ -2,12 +2,12 @@ const express = require('express');
 
 const app = express();
 const port = 3019;
-const createZimFile = require('./src/utils/zimWriters');
+const createZimFile = require('./zimWriters');
 
 app.use(express.json());
 
 
-createZimFile();
+createZimFile();;
 
 
 app.listen(port, () => {

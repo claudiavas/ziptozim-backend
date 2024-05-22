@@ -1,7 +1,7 @@
 const { spawn } = require('child_process');
 
 function createZimFile(welcome, favicon, language, title, description, creator, publisher, sourceDir, outputFile) {
-    const command = '../../zimwriterfs';
+    const command = '/zimwriterfs_local/zimwriterfs';
     const options = [
         `--welcome=${welcome}`,
         `--favicon=${favicon}`,
