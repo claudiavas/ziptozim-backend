@@ -5,7 +5,7 @@ const router = express.Router();
 router.get('/convert', async (req, res) => {
     try {
         // Get the parameters from req.query
-        const { sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher } = req.query;
+        const { sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher } = req.body;
 
         // Use createZimFile to create the ZIM file
         await createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
