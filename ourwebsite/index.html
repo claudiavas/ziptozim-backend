@@ -6,15 +6,15 @@
     <title>Welcome</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon" />  
   </head>
-  <body>ssh -i Amazon-Ubuntu/Amazon-Ubuntu.pem ubuntu@18.132.197.240 
+  <body> 
     <script>
       var files = ["index.html", "default.html", "main.html", "home.html"];
       for (var i = 0; i < files.length; i++) {
         var request = new XMLHttpRequest();
-        request.open('HEAD', '../ourweb/' + files[i], false);
+        request.open('HEAD', '../ourwebsite/' + files[i], false);
         request.send();
         if (request.status === 200) {
-          window.location.href = '../ourweb/' + files[i];
+          window.location.href = '../ourwebsite/' + files[i];
           break;
         }
       }
