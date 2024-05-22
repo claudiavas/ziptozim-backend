@@ -6,10 +6,6 @@ const createZimFile = require('./zimWriters');
 
 app.use(express.json());
 
-
-createZimFile();;
-
-
 app.listen(port, () => {
     console.log(`App listening at http://localhost:${port}`);
 });
