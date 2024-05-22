@@ -1,15 +1,13 @@
-const { zimCreator } = require('../utils/zimcreator');
+const { zimCreator } = require('../utils/zimwriters');
 const express = require('express');
 const router = express.Router();
 
-app.get('/convertWebsite', async (req, res, next) => {
+app.get('/ourwebsite', (req, res) => {
     try {
-        // Get the websiteUrl and outputZimFilePath from req.query
-        const { websiteUrl, outputZimFilePath } = req.query;
-        await zimCreator(websiteUrl, outputZimFilePath);
-        res.send('Website conversion started.');
+        res.sendFile(__dirname + '/ourwebsite/index.html');
+        res.status(200).send('Website loaded successfully.');
     } catch (err) {
-        next(err);
+        res.status(500).send({ message: 'Error loading the website.' });
     }
 });
 
