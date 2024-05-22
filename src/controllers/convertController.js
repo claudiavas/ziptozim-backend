@@ -1,21 +1,26 @@
-const { createZimFile } = require('../utils/zimwriters');
 const express = require('express');
-const router = express.Router();
+const multer  = require('multer');
+const upload = multer({ dest: 'uploads/' }); // specify the destination directory
 
-router.get('/convert', async (req, res) => {
+const app = express();
+const port = 3019;
+const createZimFile = require('./zimWriters');
+
+app.use(express.json());
+
+app.post('/convert', upload.single('inputFile'), async (req, res) => {
     try {
-        // Get the parameters from req.query
-        const { sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher } = req.body;
+        const { outputFile, welcomePage, favicon, language, title, description, creator, publisher } = req.body;
+        const inputFile = req.file; // access the uploaded file
 
-        // Use createZimFile to create the ZIM file
-        await createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
+        await createZimFile(inputFile.path, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
 
-        // Send a success response
         res.status(200).send('Website conversion started.');
     } catch (err) {
-        // Send an error response
         res.status(500).send({ message: 'Error converting the website.' });
     }
 });
 
-module.exports = router;
+app.listen(port, () => {
+    console.log(`App listening at http://localhost:${port}`);
+});
