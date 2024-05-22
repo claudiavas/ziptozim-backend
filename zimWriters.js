@@ -2,7 +2,7 @@ const { exec } = require('child_process');
 
 const sourceDirectory = './ourwebsite'; // El directorio con los archivos que quieres incluir en el archivo ZIM
 const outputFile = './OurWebsite.zim'; // La ruta donde quieres guardar el archivo ZIM
-const zimwriterfsPath = '/mnt/c/Users/Conta/Repos/Amazon-Ubuntu/ziptozim/zimwriterfs'; // La ruta al ejecutable zimwriterfs
+const zimwriterfsPath = './zimwriterfs'; // La ruta al ejecutable zimwriterfs
 
 const welcomePage = 'index.html'; // La página de bienvenida
 const favicon = 'favicon.png'; // La ilustración
