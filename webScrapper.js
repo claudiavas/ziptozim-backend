@@ -38,6 +38,6 @@ async function scrapeAndPack(url, outputZipPath) {
 }
 
 // Use the function
-scrapeAndPack('https://example.com', 'output.zip');
+// scrapeAndPack('https://example.com', 'output.zip');
 
 module.exports = scrapeAndPack;
