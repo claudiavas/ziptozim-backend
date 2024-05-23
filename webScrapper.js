@@ -2,7 +2,8 @@ const { exec } = require('child_process');
 const path = require('path');
 
 function downloadWebsite(websiteUrl) {
-    const command = `wget --mirror --convert-links --page-requisites --no-parent -P ./ ${websiteUrl}`;
+    const projectRoot = path.resolve(__dirname, '..'); // Obtiene el directorio raíz del proyecto
+    const command = `wget --mirror --convert-links --page-requisites --no-parent -P ${projectRoot} ${websiteUrl}`;
 
     exec(command, (error, stdout, stderr) => {
         if (error) {
