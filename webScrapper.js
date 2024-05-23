@@ -40,4 +40,4 @@ async function webScraper(url, outputZipPath) {
 // Use the function
 scrapeAndPack('https://example.com', 'output.zip');
 
-exports.webScraper = webScraper;
+module.exports = webScraper;
