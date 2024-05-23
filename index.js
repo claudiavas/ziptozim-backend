@@ -28,7 +28,10 @@ const description = ' '; // La descripción del ZIM
 const creator = 'Wikipedia'; // El creador del ZIM
 const publisher = 'Me'; // El editor del ZIM
 
-createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
+// createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
+
+// Test ScrapeAndPack
+scrapeAndPack('https://grey-box.ca', 'output.zip')
 
 app.use(express.json());
 
