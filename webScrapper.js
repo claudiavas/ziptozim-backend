@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const archiver = require('archiver');
 
-async function webScraper(url, outputZipPath) {
+async function scrapeAndPack(url, outputZipPath) {
     try {
         // Fetch the page
         const response = await axios.get(url);
@@ -40,4 +40,4 @@ async function webScraper(url, outputZipPath) {
 // Use the function
 scrapeAndPack('https://example.com', 'output.zip');
 
-module.exports = webScraper;
+module.exports = scrapeAndPack;
