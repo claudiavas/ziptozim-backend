@@ -1,7 +1,7 @@
 const express = require('express');
 const createZimFile = require('./zimWriters');
 const unzipFile = require('./unzip');
-const downloadwesite = require('./webScrapper');
+const downloadWebsite = require('./webScrapper');
 
 const app = express();
 const port = 3019;
