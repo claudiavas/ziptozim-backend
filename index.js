@@ -11,8 +11,8 @@ const file = {
 };
 
 // Test unzipFile
-unzipFile(file).then(() => {
-    console.log('Unzipping completed');
+unzipFile(file).then((tempDir) => {
+    console.log('Unzipping completed. Temp directory:', tempDir);
 }).catch((error) => {
     console.error('Error during unzipping:', error);
 });
