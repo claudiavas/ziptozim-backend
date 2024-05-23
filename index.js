@@ -19,9 +19,9 @@ const file = {
 // });
 
 //Parameters for testing CreateZimFile
-const sourceDirectory = './tempDir'; // El directorio con los archivos que quieres incluir en el archivo ZIM
-const outputFile = './OurWebsite.zim'; // La ruta donde quieres guardar el archivo ZIM
-const welcomePage = 'index.html'; // La página de bienvenida
+const sourceDirectory = './www.grey-box.ca'; // El directorio con los archivos que quieres incluir en el archivo ZIM
+const outputFile = './Grey-Box.zim'; // La ruta donde quieres guardar el archivo ZIM
+const welcomePage = 'index.htm'; // La página de bienvenida
 const favicon = 'favicon.png'; // La ilustración
 const language = 'eng'; // El código de idioma
 const title = 'Our Website'; // El título del ZIM
