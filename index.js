@@ -1,10 +1,23 @@
 const express = require('express');
 const createZimFile = require('./zimWriters');
+const unzipFile = require('./unzip');
 
 const app = express();
 const port = 3019;
 
-//Parameters for testing
+// Parameters for testing unzipFile
+const file = {
+    path: './greybox.zip'
+};
+
+// Test unzipFile
+unzipFile(path).then(() => {
+    console.log('Unzipping completed');
+}).catch((error) => {
+    console.error('Error during unzipping:', error);
+});
+
+//Parameters for testing CreateZimFile
 const sourceDirectory = './ourwebsite'; // El directorio con los archivos que quieres incluir en el archivo ZIM
 const outputFile = './OurWebsite.zim'; // La ruta donde quieres guardar el archivo ZIM
 const welcomePage = 'index.html'; // La página de bienvenida
@@ -15,7 +28,7 @@ const description = ' '; // La descripción del ZIM
 const creator = 'Wikipedia'; // El creador del ZIM
 const publisher = 'Me'; // El editor del ZIM
 
-createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
+// createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
 
 app.use(express.json());
 
