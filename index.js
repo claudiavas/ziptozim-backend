@@ -36,7 +36,8 @@ const publisher = 'Me'; // El editor del ZIM
 
 downloadWebsite('https://grey-box.ca').then(content => {
     console.log(content);
-});
+}
+);
 
 app.use(express.json());
 
