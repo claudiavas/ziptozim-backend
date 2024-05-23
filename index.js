@@ -7,7 +7,6 @@ const port = 3019;
 //Parameters for testing
 const sourceDirectory = './ourwebsite'; // El directorio con los archivos que quieres incluir en el archivo ZIM
 const outputFile = './OurWebsite.zim'; // La ruta donde quieres guardar el archivo ZIM
-const zimwriterfsPath = './zimwriterfs'; // La ruta al ejecutable zimwriterfs
 const welcomePage = 'index.html'; // La página de bienvenida
 const favicon = 'favicon.png'; // La ilustración
 const language = 'eng'; // El código de idioma

@@ -1,5 +1,7 @@
 const { exec } = require('child_process');
 
+const zimwriterfsPath = './zimwriterfs'; // La ruta al ejecutable zimwriterfs
+
 function createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher) {
     const command = `${zimwriterfsPath} --welcome=${welcomePage} --favicon=${favicon} --language=${language} --title="${title}" --description="${description}" --creator=${creator} --publisher=${publisher} ${sourceDirectory} ${outputFile}`;
 
