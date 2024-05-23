@@ -8,15 +8,15 @@ const port = 3019;
 
 // Parameters for testing unzipFile
 const file = {
-    path: './greybox.zip'
+    path: './output.zip'
 };
 
 // Test unzipFile
-// unzipFile(file).then((tempDir) => {
-//     console.log('Unzipping completed. Temp directory:', tempDir);
-// }).catch((error) => {
-//     console.error('Error during unzipping:', error);
-// });
+unzipFile(file).then((tempDir) => {
+    console.log('Unzipping completed. Temp directory:', tempDir);
+}).catch((error) => {
+    console.error('Error during unzipping:', error);
+});
 
 //Parameters for testing CreateZimFile
 const sourceDirectory = './tempDir'; // El directorio con los archivos que quieres incluir en el archivo ZIM
@@ -32,7 +32,7 @@ const publisher = 'Me'; // El editor del ZIM
 // createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
 
 // Test ScrapeAndPack
-scrapeAndPack('https://grey-box.ca', 'output.zip')
+// scrapeAndPack('https://grey-box.ca', 'output.zip')
 
 
 app.use(express.json());
