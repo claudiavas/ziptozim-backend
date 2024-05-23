@@ -1,7 +1,8 @@
 const { exec } = require('child_process');
+const path = require('path');
 
-function downloadWebsite() {
-    const command = 'wget --mirror --convert-links --page-requisites --no-parent -P documents/websites/ https://grey-box.ca';
+function downloadWebsite(websiteUrl) {
+    const command = `wget --mirror --convert-links --page-requisites --no-parent -P ./ ${websiteUrl}`;
 
     exec(command, (error, stdout, stderr) => {
         if (error) {
@@ -13,4 +14,6 @@ function downloadWebsite() {
 }
 
 // Uso de la función
-downloadWebsite();
+downloadWebsite('https://grey-box.ca');
+
+module.exports = downloadWebsite;

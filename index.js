@@ -1,7 +1,7 @@
 const express = require('express');
 const createZimFile = require('./zimWriters');
 const unzipFile = require('./unzip');
-const scrapeAndPack = require('./webScrapper');
+const downloadwesite = require('./webScrapper');
 
 const app = express();
 const port = 3019;
@@ -32,7 +32,9 @@ const publisher = 'Me'; // El editor del ZIM
 // createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
 
 // Test ScrapeAndPack
-scrapeAndPack('https://grey-box.ca', 'output.zip')
+// scrapeAndPack('https://grey-box.ca', 'output.zip')
+
+downloadWebsite('https://grey-box.ca');
 
 app.use(express.json());
 
