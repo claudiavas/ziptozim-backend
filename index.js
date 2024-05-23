@@ -4,7 +4,7 @@ const zimWriters = require('./zimWriters');
 const app = express();
 const port = 3019;
 
-//Parameter for testing
+//Parameters for testing
 const sourceDirectory = './ourwebsite'; // El directorio con los archivos que quieres incluir en el archivo ZIM
 const outputFile = './OurWebsite.zim'; // La ruta donde quieres guardar el archivo ZIM
 const zimwriterfsPath = './zimwriterfs'; // La ruta al ejecutable zimwriterfs
