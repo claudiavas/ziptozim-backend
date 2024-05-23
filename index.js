@@ -11,14 +11,14 @@ const file = {
 };
 
 // Test unzipFile
-unzipFile(file).then((tempDir) => {
-    console.log('Unzipping completed. Temp directory:', tempDir);
-}).catch((error) => {
-    console.error('Error during unzipping:', error);
-});
+// unzipFile(file).then((tempDir) => {
+//     console.log('Unzipping completed. Temp directory:', tempDir);
+// }).catch((error) => {
+//     console.error('Error during unzipping:', error);
+// });
 
 //Parameters for testing CreateZimFile
-const sourceDirectory = './ourwebsite'; // El directorio con los archivos que quieres incluir en el archivo ZIM
+const sourceDirectory = './tempDir'; // El directorio con los archivos que quieres incluir en el archivo ZIM
 const outputFile = './OurWebsite.zim'; // La ruta donde quieres guardar el archivo ZIM
 const welcomePage = 'index.html'; // La página de bienvenida
 const favicon = 'favicon.png'; // La ilustración
@@ -28,7 +28,7 @@ const description = ' '; // La descripción del ZIM
 const creator = 'Wikipedia'; // El creador del ZIM
 const publisher = 'Me'; // El editor del ZIM
 
-// createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
+createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher);
 
 app.use(express.json());
 

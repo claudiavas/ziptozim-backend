@@ -5,6 +5,7 @@ ZiptoZim it´s an Api that allows users to send an http request to convert a web
 In further versions more functionalities may be added as webScrapper to convert a webpage into a Zip file and also convert a Zip file directly into a Zim file. See related functions in /src/utils.
 
 ## Testing Command
+
 curl -X POST -H "Content-Type: multipart/form-data" -F "inputFile=@greybox.zip" -F "outputFile=greyboxoutput.zim" -F "welcomePage=index.html" -F "favicon=favicon.png" -F "language=eng" -F "title=Our Website" -F "description= " -F "creator=Wikipedia" -F "publisher=Me" http://localhost:3019/convert
 
 ## Docker Commands
