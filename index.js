@@ -1,5 +1,5 @@
 const express = require('express');
-const zimWriters = require('./zimWriters');
+const createZimFile = require('./zimWriters');
 
 const app = express();
 const port = 3019;
