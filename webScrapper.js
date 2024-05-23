@@ -1,20 +1,17 @@
-const { exec } = require('child_process');
-const path = require('path');
+const puppeteer = require('puppeteer');
 
-function downloadWebsite(websiteUrl) {
-    const projectRoot = path.resolve(__dirname, '..'); // Obtiene el directorio raíz del proyecto
-    const command = `wget --mirror --convert-links --page-requisites --no-parent -P ${projectRoot} ${websiteUrl}`;
-
-    exec(command, (error, stdout, stderr) => {
-        if (error) {
-            console.error(`Error downloading website: ${error}`);
-            return;
-        }
-        console.log(`Website downloaded: ${stdout}`);
-    });
+async function downloadWebsite(websiteUrl) {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+    await page.goto(websiteUrl, {waitUntil: 'networkidle2'});
+    const content = await page.content();
+    await browser.close();
+    return content;
 }
 
 // Uso de la función
-downloadWebsite('https://grey-box.ca');
+downloadWebsite('https://grey-box.ca').then(content => {
+    console.log(content);
+});
 
 module.exports = downloadWebsite;

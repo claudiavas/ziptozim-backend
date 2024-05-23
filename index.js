@@ -34,8 +34,9 @@ const publisher = 'Me'; // El editor del ZIM
 // Test ScrapeAndPack
 // scrapeAndPack('https://grey-box.ca', 'output.zip')
 
-downloadWebsite('https://grey-box.ca');
-
+downloadWebsite('https://grey-box.ca').then(content => {
+    console.log(content);
+    
 app.use(express.json());
 
 app.listen(port, () => {
