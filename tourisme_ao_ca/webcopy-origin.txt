@@ -1,0 +1,1716 @@
+Uri: https://platform-api.sharethis.com/js/sharethis.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\js\sharethis.js
+Content Type: text/javascript
+
+Uri: https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/445648449_970756808387454_5516961749603095557_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=El4XW86RhggQ7kNvgHsRcv4&_nc_ht=scontent-lga3-1.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYBN8hxEyzCoxDMR4FtKuJE4gC_yIOuUyg2J4AOwG-FX-A&oe=6655F8B5
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\v\t39.30808-6\445648449_970756808387454_5516961749603095557_n.jpg
+Content Type: image/jpeg
+
+Uri: https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/441874612_958210659642069_4884027556885097448_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=18de74&_nc_ohc=z33opyibIowQ7kNvgHhWbg9&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYCgmUaXn2I0IDUe2ZyC61pQohQAiLE5l5X7a3dvMpUqvg&oe=66560064
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\v\t39.30808-6\441874612_958210659642069_4884027556885097448_n.jpg
+Content Type: image/jpeg
+
+Uri: https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/442417491_966328732163595_7682314653351687097_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=Ru4Wx3s823AQ7kNvgFckAQG&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYDLHWGSQuNVz93cnHd6X4gMofbTgH7bzQ_s3D-Tna48Ww&oe=66560312
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\v\t39.30808-6\442417491_966328732163595_7682314653351687097_n.jpg
+Content Type: image/jpeg
+
+Uri: https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/442489709_966341475495654_5482552705039609832_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=TrP_RqySE7sQ7kNvgHl4DqM&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANQ71j8EAAAA&oh=00_AYB9hJ6Ne2l-Fg4VRT-JKYPwYXmCjJs2RVFs27YGsaw_Hw&oe=665607FC
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\v\t39.30808-6\442489709_966341475495654_5482552705039609832_n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/css/automne.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\css\automne.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/css/mega-menu2.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\css\mega-menu2.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/css/responsive.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\css\responsive.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/css/styles.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\css\styles.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/documents/pages/carte-touristique-2023-v2.pdf
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\documents\pages\carte-touristique-2023-v2.pdf
+Content Type: application/pdf
+
+Uri: https://tourisme.ao.ca/fr/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/?FavoriAjouterEvenementID=27
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index-3.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/?FavoriAjouterEvenementID=29
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index-1.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/?FavoriAjouterEvenementID=33
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index-2.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/?FavoriRetirerEvenementID=27
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index-6.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/?FavoriRetirerEvenementID=29
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index-4.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/?FavoriRetirerEvenementID=33
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\index-5.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/autres-liens
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\autres-liens.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/blogue/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\blogue\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/blogue/details.cfm?ID=2
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\blogue\details.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/documentation
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\documentation.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/aire-d-accueil-au-soleil-couchant
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\aire-d-accueil-au-soleil-couchant.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/bar-l-alambic
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\bar-l-alambic.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/boston-pizza
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\boston-pizza.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/boulangerie-lacroix
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\boulangerie-lacroix.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/brasserie-artisanale-la-pierre-de-fee
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\brasserie-artisanale-la-pierre-de-fee.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/brasserie-la-brute-du-coin
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\brasserie-la-brute-du-coin.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/cafe-camping-hebecourt
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\cafe-camping-hebecourt.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/camping-bel-evasion
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\camping-bel-evasion.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/camping-bon-vent
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\camping-bon-vent.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/camping-du-lac-courval
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\camping-du-lac-courval.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/camping-le-poste
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\camping-le-poste.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/camping-municipal-de-roquemaure
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\camping-municipal-de-roquemaure.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/centre-d-interpretation-de-la-foresterie
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\centre-d-interpretation-de-la-foresterie.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/chalet-l-ephemere
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\chalet-l-ephemere.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/chalet-lac-perron
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\chalet-lac-perron.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/cinema-cafe-la-sarre
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\cinema-cafe-la-sarre.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/cinema-la-sarre
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\cinema-la-sarre.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/club-beattie
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\club-beattie.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/club-de-golf-duparquet
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\club-de-golf-duparquet.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/club-motoneige-abitibi-ouest
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\club-motoneige-abitibi-ouest.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/club-nautique-du-lac-abitibi
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\club-nautique-du-lac-abitibi.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/club-skinoramik-de-ste-germaine-boule
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\club-skinoramik-de-ste-germaine-boule.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/domaine-roch-paradis
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\domaine-roch-paradis.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/domaine-st-pierre-et-fils
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\domaine-st-pierre-et-fils.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/double-pizza
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\double-pizza.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/eglise-de-rapide-danseur
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\eglise-de-rapide-danseur.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/equitibi-mini-ferme-et-ecurie
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\equitibi-mini-ferme-et-ecurie.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/ferme-la-poul-a-ries
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\ferme-la-poul-a-ries.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/fromagerie-fromabitibi
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\fromagerie-fromabitibi.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/fromagerie-la-vache-a-maillotte
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\fromagerie-la-vache-a-maillotte.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/galerie-sang-neuf-art
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\galerie-sang-neuf-art.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/gite-le-presbytere
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\gite-le-presbytere.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/golf-du-9
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\golf-du-9.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/habaneros-grill-mexicain
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\habaneros-grill-mexicain.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-cuverie
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-cuverie.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-fraisonnee
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-fraisonnee.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-fraisonnee&favori=1
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-fraisonnee&favori=1
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-meute-de-la-petite-germaine
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-meute-de-la-petite-germaine.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-route-du-patrimoine-forestier
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-route-du-patrimoine-forestier.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-styliste-sucree
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-styliste-sucree.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/la-troupe-a-coeur-ouvert-inc.
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\la-troupe-a-coeur-ouvert-inc..html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/le-boreal-show
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\le-boreal-show.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/les-portes-du-bout-du-monde
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\les-portes-du-bout-du-monde.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/les-sentiers-pedestres-du-grand-heron
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\les-sentiers-pedestres-du-grand-heron.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/maison-de-la-culture
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\maison-de-la-culture.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/maison-lac-abitibi
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\maison-lac-abitibi.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/maison-turgeon
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\maison-turgeon.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/marche-public-de-palmarolle
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\marche-public-de-palmarolle.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/marina-de-gallichan
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\marina-de-gallichan.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/marina-de-la-reine
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\marina-de-la-reine.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/motel-le-bivouac
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\motel-le-bivouac.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/motel-villa-mon-repos
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\motel-villa-mon-repos.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/musee-ecole-du-rang-2-d-authier
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\musee-ecole-du-rang-2-d-authier.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/o-p-tit-chalet
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\o-p-tit-chalet.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/parade-de-noel---abitibi-ouest
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\parade-de-noel---abitibi-ouest.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/parc-national-d-aiguebelle
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\parc-national-d-aiguebelle.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/pourvoirie-des-d-iles-du-lac-duparquet
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\pourvoirie-des-d-iles-du-lac-duparquet.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/pourvoirie-du-lac-portage
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\pourvoirie-du-lac-portage.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/pouvoirie-fern
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\pouvoirie-fern.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/residence-de-tourisme-chez-gustave
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\residence-de-tourisme-chez-gustave.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/rest-eau-du-quai
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\rest-eau-du-quai.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/restaurant-au-p-tit-bonheur
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\restaurant-au-p-tit-bonheur.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/restaurant-club-de-golf-duparquet
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\restaurant-club-de-golf-duparquet.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/restaurant-du-camping-municipal-de-roquemaure
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\restaurant-du-camping-municipal-de-roquemaure.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/restaurant-le-mouk-mouk
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\restaurant-le-mouk-mouk.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/restaurant-le-poste
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\restaurant-le-poste.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/restaurant-toujours-mikes
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\restaurant-toujours-mikes.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/salle-desjardins
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\salle-desjardins.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentier-historique-culturel-et-legendaire-en-pigeonmobile
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentier-historique-culturel-et-legendaire-en-pigeonmobile.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentier-multifonctionnel-de-val-saint-gilles
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentier-multifonctionnel-de-val-saint-gilles.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentiers-de-la-lune
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentiers-de-la-lune.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentiers-pedestres-de-la-micro-foret
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentiers-pedestres-de-la-micro-foret.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentiers-pedestres-de-la-montagne-a-fred
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentiers-pedestres-de-la-montagne-a-fred.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentiers-pedestres-de-normetal
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentiers-pedestres-de-normetal.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/sentiers-pedestres-du-marais-antoine
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\sentiers-pedestres-du-marais-antoine.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/societe-d-histoire-et-du-patrimoine-de-la-region-de-la-sarre
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\societe-d-histoire-et-du-patrimoine-de-la-region-de-la-sarre.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/societe-de-la-culture-de-lhistoire-et-du-patrimoine-de-normetal
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\societe-de-la-culture-de-lhistoire-et-du-patrimoine-de-normetal.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/details/verger-de-l-ile-nepawa
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\details\verger-de-l-ile-nepawa.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/identification.cfm
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\identification.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/entreprises/pieces-jointes.cfm?ID=2085&TelechargerFichier=info_location_chalet_lephemere.pdf
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\pieces-jointes.cfm
+Content Type: application/pdf
+
+Uri: https://tourisme.ao.ca/fr/entreprises/pieces-jointes.cfm?ID=2091&TelechargerFichier=img_0031.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\entreprises\pieces-jointes-1.cfm
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/fr/evenements/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=22
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-6.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=23
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-7.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=25
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-5.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=26
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-4.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=27
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-2.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=29
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=31
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-3.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/details.cfm?ID=33
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\details.cfm-1.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-77.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=1066
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-3.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=1069
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-4.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=1072
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-5.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2075
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-6.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2078
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-7.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2079
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-8.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2080
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-64.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2082
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-9.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2084
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-10.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2085
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-11.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2087
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-12.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2088
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-13.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2089
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-14.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2091
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-15.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2095
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-16.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2096
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-51.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2097
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-52.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2098
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-17.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2099
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-53.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2100
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-18.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2101
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-19.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2102
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-20.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2103
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-21.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2104
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-22.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2105
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-23.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2106
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-24.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2107
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-25.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2108
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-26.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2109
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-27.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2111
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-28.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2112
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-29.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2113
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-65.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2114
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-30.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2115
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-31.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2116
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-32.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2121
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-33.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2122
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-34.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2124
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-35.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2128
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-36.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2129
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-37.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2130
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-38.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2131
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-39.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2132
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-40.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2133
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-41.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2134
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-66.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2135
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-67.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2137
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-68.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2138
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-42.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2139
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-43.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2140
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-44.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2141
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-69.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2142
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-70.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2143
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-71.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2144
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-72.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2145
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-73.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2146
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-74.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2147
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-75.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2148
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-76.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2149
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-54.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2150
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-55.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2151
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-56.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2152
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-57.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2153
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-58.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2154
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-59.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2155
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-45.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2156
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-46.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2158
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-60.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2161
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-47.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2178
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-61.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2181
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-48.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2182
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-49.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2184
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-62.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=2185
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-50.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=39
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-63.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=40
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=44
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-1.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/evenements/index.cfm?FicheID=56
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\evenements\index.cfm-2.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/favoris/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\favoris\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/municipalites
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\municipalites.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/nous-joindre/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\nous-joindre\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/nouvelles/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\nouvelles\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/nouvelles/liste.cfm
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\nouvelles\liste.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-dormir/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-dormir\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-dormir/?PageID=6
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-dormir\index-1.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-dormir/index.cfm
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-dormir\index.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-dormir/index.cfm?PageID=6
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-dormir\index.cfm-1.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-manger/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-manger\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-manger/?PageID=5
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-manger\index-1.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-manger/index.cfm
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-manger\index.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/ou-manger/index.cfm?PageID=5
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\ou-manger\index.cfm-1.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/paysage
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\paysage.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/quoi-faire/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\quoi-faire\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/quoi-faire/?PageID=4
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\quoi-faire\index-1.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/quoi-faire/index.cfm
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\quoi-faire\index.cfm.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/quoi-faire/index.cfm?PageID=4
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\quoi-faire\index.cfm-1.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/renseignements
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\renseignements.html
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/fr/territoire/
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\fr\territoire\index.htm
+Content Type: text/html
+
+Uri: https://tourisme.ao.ca/images/bandeau/grandes/abitibi-ouest314.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\bandeau\grandes\abitibi-ouest314.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/bandeau/grandes/bandeau1.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\bandeau\grandes\bandeau1.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/bandeau/grandes/bandeau2.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\bandeau\grandes\bandeau2.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/blogues/grandes/bit.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\blogues\grandes\bit.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/design/brochure2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\brochure2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/design/logo-ao.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\logo-ao.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/design/logo-mrcao.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\logo-mrcao.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/design/loupe2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\loupe2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/design/pont-ile-nepawa.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\pont-ile-nepawa.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/design/tourisme-at-logo.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\tourisme-at-logo.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/design/vue.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\design\vue.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/abitibi-ouest--1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\abitibi-ouest--1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/abitibi-ouest-1-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\abitibi-ouest-1-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/abitibi-ouest-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\abitibi-ouest-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/abitibi-ouest-3.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\abitibi-ouest-3.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/abitibi-ouest.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\abitibi-ouest.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/abitibi-ouestma.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\abitibi-ouestma.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/creation-sans-titre-3-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\creation-sans-titre-3-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/bandeau/grandes/creation-sans-titre-4.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\bandeau\grandes\creation-sans-titre-4.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/abitibi-ouest-2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\abitibi-ouest-2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/abitibi-ouest-3.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\abitibi-ouest-3.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/creation-sans-titre-2-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\creation-sans-titre-2-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/creation-sans-titre-5.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\creation-sans-titre-5.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/tourisme-ao---plateforme-1-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\tourisme-ao---plateforme-1-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/tourisme-ao---plateforme-2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\tourisme-ao---plateforme-2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/tourisme-ao---plateforme.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\tourisme-ao---plateforme.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/evenements/grandes/tourisme-aom---plateforme.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\evenements\grandes\tourisme-aom---plateforme.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/1005062-203806603108363-1598008374-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\1005062-203806603108363-1598008374-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/107375682-2720448918240298-6671060634975840542-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\107375682-2720448918240298-6671060634975840542-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/1920x540px.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\1920x540px.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/266063625-575973293747947-228578494622375628-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\266063625-575973293747947-228578494622375628-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/27654427-1753504494700584-2313329994057752588-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\27654427-1753504494700584-2313329994057752588-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/353539513-794008912099095-8683849707354860411-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\353539513-794008912099095-8683849707354860411-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/358637582-751755783620892-1771818744448764408-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\358637582-751755783620892-1771818744448764408-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/359834004-754534023343068-4007906873795385858-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\359834004-754534023343068-4007906873795385858-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/365468741-732907478640668-1048341973955713493-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\365468741-732907478640668-1048341973955713493-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/369856505-780311950765275-3729173429655999964-n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\369856505-780311950765275-3729173429655999964-n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/400x600px-tourisme-ao.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\400x600px-tourisme-ao.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/bar-l-alambic.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\bar-l-alambic.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/camping-clerval-100.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\camping-clerval-100.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/centre-d-interpretation-de-la-foresterie.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\centre-d-interpretation-de-la-foresterie.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/chalet-du-lac-perron.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\chalet-du-lac-perron.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/chez-gustave.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\chez-gustave.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/club-de-golf-duparquet.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\club-de-golf-duparquet.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/copie-de-chez-gustave-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\copie-de-chez-gustave-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(2).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(2).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(3).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(3).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(4).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(4).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(5).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(5).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(6).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(6).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(7).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(7).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(8).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(8).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-(9).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-(9).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-3-2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-3-2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/creation-sans-titre-4-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\creation-sans-titre-4-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/dsc-0517.JPG
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\dsc-0517.JPG
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/dsc-7540-pe.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\dsc-7540-pe.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/dsc-8014.JPG
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\dsc-8014.JPG
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/dsc-9568.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\dsc-9568.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/e8535fc129f11002ed8fe70ab4006b5b-960.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\e8535fc129f11002ed8fe70ab4006b5b-960.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/eglise-de-rapide-danseur.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\eglise-de-rapide-danseur.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/fd149890-b291-4000-aa16-c36da33cf145-scaled.jpeg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\fd149890-b291-4000-aa16-c36da33cf145-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/golf-du-9.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\golf-du-9.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/golf-duparquet1.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\golf-duparquet1.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/golf.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\golf.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/image00004.jpeg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\image00004.jpeg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/image1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\image1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/img-1113.jpeg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\img-1113.jpeg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/img-2164.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\img-2164.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/img-2238.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\img-2238.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/img-4419.JPG
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\img-4419.JPG
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/img-9541.JPG
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\img-9541.JPG
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/la-reine-007.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\la-reine-007.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/lac-de-courval.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\lac-de-courval.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/le-poste-1.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\le-poste-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/le-poste.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\le-poste.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/les-portes-du-bout-du-monde-parc.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\les-portes-du-bout-du-monde-parc.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/logo-ferme-la-poul-a-ries.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\logo-ferme-la-poul-a-ries.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/logo-sentier-historique--culturel-et-legendaire.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\logo-sentier-historique--culturel-et-legendaire.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/maison-de-la-culture.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\maison-de-la-culture.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/maison-turgeon.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\maison-turgeon.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/md-gvat-giteprebytere-0002.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\md-gvat-giteprebytere-0002.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/md-gvat-giteprebytere-0063.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\md-gvat-giteprebytere-0063.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/palmarolle-006.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\palmarolle-006.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/parc-national-d-aiguebelle.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\parc-national-d-aiguebelle.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/pigeonmobile.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\pigeonmobile.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/reine.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\reine.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/rucher-elizabeth-ete.JPG
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\rucher-elizabeth-ete.JPG
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/sentiers-de-la-lune.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\sentiers-de-la-lune.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/sentiers-grand-heron-01.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\sentiers-grand-heron-01.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/shprls.JPG
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\shprls.JPG
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme---plateforme-web-(2).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme---plateforme-web-(2).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme---plateforme-web-(3).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme---plateforme-web-(3).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme---plateforme-web-(4).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme---plateforme-web-(4).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme---plateforme-web-(5).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme---plateforme-web-(5).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme---plateforme-web.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme---plateforme-web.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(1).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(1).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(10).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(10).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(11).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(11).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(12).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(12).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(13)-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(13)-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(14).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(14).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(15).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(15).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(17).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(17).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(2).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(2).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(3)-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(3)-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(4)-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(4)-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(5).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(5).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(6).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(6).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(7).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(7).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(8).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(8).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-(9).png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-(9).png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/tourisme-ao---plateforme-3.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\tourisme-ao---plateforme-3.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/troupe-a-coeur-ouvert.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\troupe-a-coeur-ouvert.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/grandes/villa.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\grandes\villa.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/10.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\10.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/100.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\100.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/19.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\19.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/23.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\23.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/33.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\33.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/342872680_558281456430905_7206287444588824202_n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\342872680_558281456430905_7206287444588824202_n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/343054328_1405464800206430_4925186022529870080_n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\343054328_1405464800206430_4925186022529870080_n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/343289887_1280525722553439_2217859067858140372_n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\343289887_1280525722553439_2217859067858140372_n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/36.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\36.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/387337941_1040216506981087_1006797612130588649_n.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\387337941_1040216506981087_1006797612130588649_n.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/7.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\7.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/91.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\91.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/92.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\92.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/93.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\93.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/94.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\94.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/95.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\95.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/96.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\96.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/97.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\97.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/98.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\98.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/99.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\99.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/chambreetage2_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\chambreetage2_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/chambreetagelit1_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\chambreetagelit1_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/chambreetagelit2_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\chambreetagelit2_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/chambreetage_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\chambreetage_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/chambrerezchaussee_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\chambrerezchaussee_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/coinfeuxchambreetage2_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\coinfeuxchambreetage2_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/coinfeu_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\coinfeu_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/cuisine_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\cuisine_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/entree.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\entree.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/faceetenuit_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\faceetenuit_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/faceete_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\faceete_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/foyersalon_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\foyersalon_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/gite.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\gite.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/golf-1.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\golf-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/la-brute-du-coin-menu-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\la-brute-du-coin-menu-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/la-brute-du-coin-menu-2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\la-brute-du-coin-menu-2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/la-brute-du-coin-menu-3.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\la-brute-du-coin-menu-3.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/la-brute-du-coin-menu-4.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\la-brute-du-coin-menu-4.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/lacabitibi_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\lacabitibi_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/locationkayak_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\locationkayak_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/menu-speciale-modif-mars-2023-1.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\menu-speciale-modif-mars-2023-1.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/menu-speciale-modif-mars-2023-2.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\menu-speciale-modif-mars-2023-2.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/plageavant_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\plageavant_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/plage_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\plage_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/salledebain_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\salledebain_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/sallemanger_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\sallemanger_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/salon_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\salon_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/spaetenuit_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\spaetenuit_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/spaete_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\spaete_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/spahiver_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\spahiver_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/stationnement_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\stationnement_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/teletravail_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\teletravail_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/terrasseetenuit_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\terrasseetenuit_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vueaerienne_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vueaerienne_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vuebalconhiver_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vuebalconhiver_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vuechambreetage_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vuechambreetage_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vuecours_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vuecours_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vuefacehiver_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vuefacehiver_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vuelacabitibi_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vuelacabitibi_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vueplage_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vueplage_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/fiches/photos/moyennes/vuesalon_chaletlephemere.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\fiches\photos\moyennes\vuesalon_chaletlephemere.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/pages/grandes/globe.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\pages\grandes\globe.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/pages/grandes/md-mrcao-pourvrapidedanseur-003.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\pages\grandes\md-mrcao-pourvrapidedanseur-003.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/pages/grandes/md-mrcao-taschereau-0010.jpg
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\pages\grandes\md-mrcao-taschereau-0010.jpg
+Content Type: image/jpeg
+
+Uri: https://tourisme.ao.ca/images/pages/grandes/tourisme-ao.png
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\images\pages\grandes\tourisme-ao.png
+Content Type: image/png
+
+Uri: https://tourisme.ao.ca/js/global.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\js\global.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/js/interactive-map/map-config.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\js\interactive-map\map-config.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/js/interactive-map/map-interact.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\js\interactive-map\map-interact.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/js/interactive-map/map-style.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\js\interactive-map\map-style.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/js/interactive-map/pins-config.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\js\interactive-map\pins-config.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/css/font-awesome-6.1.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\css\font-awesome-6.1.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/css/slicknav/slicknav.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\css\slicknav\slicknav.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/frameworks/foundation-6.3.0/css/foundation.min.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\frameworks\foundation-6.3.0\css\foundation.min.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/frameworks/foundation-6.3.0/js/foundation.min.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\frameworks\foundation-6.3.0\js\foundation.min.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/jquery-1.11.2.min.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/autoscroll/jquery.autoscroll.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\autoscroll\jquery.autoscroll.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/calendrier/calendrier.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\calendrier\calendrier.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/calendrier/themes/overcast.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\calendrier\themes\overcast.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/fancybox/2.1.5/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\fancybox\2.1.5\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/fancybox/2.1.5/jquery.fancybox.pack.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\fancybox\2.1.5\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/galleria/themes/twelve/galleria.twelve.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\galleria\themes\twelve\galleria.twelve.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/lightgallery/css/lightgallery.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\lightgallery\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/lightgallery/js/lightgallery.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\lightgallery\js\lightgallery.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/masterslider/2.51.3/masterslider.min.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\masterslider\2.51.3\masterslider.min.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/masterslider/2.51.3/skins/default/style.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\masterslider\2.51.3\skins\default\style.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/masterslider/2.51.3/style/masterslider.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\masterslider\2.51.3\style\masterslider.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/slicknav/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\slicknav\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/slim/css/slim.min.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\slim\css\slim.min.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/slim/js/slim.kickstart.min.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\slim\js\slim.kickstart.min.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/sticky-navigation/jquery.sticky-navigation.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\sticky-navigation\jquery.sticky-navigation.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/superfish/1.7.4/css/superfish-vertical.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\superfish\1.7.4\css\superfish-vertical.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/superfish/1.7.4/css/superfish.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\superfish\1.7.4\css\superfish.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/superfish/1.7.4/js/hoverIntent.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\superfish\1.7.4\js\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/superfish/1.7.4/js/superfish.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\superfish\1.7.4\js\superfish.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/superfish/1.7.4/js/supersubs.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\superfish\1.7.4\js\supersubs.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/unitegallery-1.7.8/css/unite-gallery.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\unitegallery-1.7.8\css\unite-gallery.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/unitegallery-1.7.8/js/unitegallery.min.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\unitegallery-1.7.8\js\unitegallery.min.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/unitegallery-1.7.8/themes/default/ug-theme-default.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\unitegallery-1.7.8\themes\default\ug-theme-default.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/librairies-javascript/jquery/plugins/unitegallery-1.7.8/themes/tilesgrid/ug-theme-tilesgrid.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\librairies-javascript\jquery\plugins\unitegallery-1.7.8\themes\tilesgrid\ug-theme-tilesgrid.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/scripts/cookieconsent/2.9.2/cookieconsent.css
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\scripts\cookieconsent\2.9.2\cookieconsent.css
+Content Type: text/css
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/scripts/cookieconsent/2.9.2/cookieconsent.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\scripts\cookieconsent\2.9.2\cookieconsent.js
+Content Type: application/javascript
+
+Uri: https://tourisme.ao.ca/RessourcesCentrales/scripts/cookieconsent/2.9.2/sites/global-sharethis-facebook.js
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\RessourcesCentrales\scripts\cookieconsent\2.9.2\sites\global-sharethis-facebook.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=fr-CA&onload=recaptchaOnloadCallback&render=explicit
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.mrcao.qc.ca/documents/pages/paysages-ruraux-dinteret-de-la-mrc-dabitibi-ouest.pdf
+File Name: C:\Downloaded Web Sites\tourisme.ao.ca\documents\pages\paysages-ruraux-dinteret-de-la-mrc-dabitibi-ouest.pdf
+Content Type: application/pdf
+

@@ -1,0 +1,472 @@
+/***********************************************************/
+/*****************     Small only       ********************/
+/***********************************************************/
+@media screen and (max-width: 39.9375em) {
+h1 {
+font-size:3rem;
+}
+h2 {
+font-size:1.75rem;
+}
+h3 {
+font-size:1.5rem;
+}
+h4 {
+font-size:1.375rem;
+}
+h5 {
+font-size:1.25rem;
+}
+h6 {
+font-size:1.125rem;
+}
+div#header ul li a {
+font-size:0.75rem;
+padding:0.75rem 0.625rem 0.25rem 0.625rem;
+}
+div#header div#logo {
+position:relative;
+background-color:#FFFFFF;
+display:inline-block;
+width:100%;
+text-align:center;
+}
+div.menuConteneur div.mediaSociaux {
+position:relative;
+padding:0 0 1.25rem 0;
+}
+div#bandeau div.infoCovid19 {
+right:2%;
+bottom:5%;
+padding:0.5rem;
+}
+div#bandeau div.infoCovid19 h2 {
+font-size:2rem;
+}
+div#bandeau div.infoCovid19 p {
+font-size:0.75rem;
+}
+div.mediaSociaux div.flottant:first-child {
+margin-bottom:1rem;
+}
+form#formRechercheRapide {
+margin-top:0;
+}
+div#main-content div.entetePage h1 {
+font-size:2rem;
+}
+ul.wizard li {
+width:49.5%;
+}
+.emphase {
+font-size:1.25rem;
+}
+.fullPadding {
+padding:2rem 0.9375rem;
+}
+div.infoContact div.large-6 {
+padding:2rem 1rem;
+}
+div.infoContact div.large-6 div.flottant {
+padding-left:0;
+}
+div.infoContact div.large-6:last-child {
+padding:2rem 0.9375rem;
+}
+div#calendrierEvenements {
+padding-bottom:3rem;
+}
+div#calendrierEvenements div.large-4 {
+padding:3.5rem 0 3.5rem 5%;
+}
+div#calendrierEvenements div.large-4 a.bouton {
+margin-top:2rem;
+}
+div.vignetteEvenement {
+float:inherit;
+width:100%;
+margin:2.5rem 0 0 0;
+}
+div#carteTouristique {
+height:inherit;
+padding:2rem 0;
+}
+div#carteTouristique div.large-4 div.conteneurCarte {
+position:inherit;
+top:inherit;
+right:inherit;
+}
+div#carteTouristique div.large-8 {
+padding:0.75rem;
+}
+div#carteTouristique div.large-8 a.bouton {
+margin-top:0;
+}
+div.ficheEvenementPoster {
+height:220px;
+}
+div.ficheEvenementPosterContenu {
+height:220px;
+}
+div.ficheEvenementDate {
+padding:0.25rem 0.75rem;
+font-size:1.25rem;
+}
+div.ficheEvenementDateFin:before {
+bottom:0px;
+}
+div.ficheEvenementDateFin {
+left:7rem;
+}
+div.evenementFiche {
+margin-top:2rem;
+}
+div#instagram {
+padding:2.5rem 0;
+}
+div#instagram div.large-4 ul {
+margin:0 0 2rem 0;
+}
+div#instagram div.large-4 p {
+font-size:1.125rem;
+}
+div#instagram div.large-8 div {
+margin:1rem 0;
+width:100%;
+}
+div#nouvelles div.ficheNouvelle div {
+position:inherit;
+margin:2rem 0 0 0;
+top:inherit;
+left:inherit;
+}
+div#nouvelles div.large-5 a.bouton {
+position:inherit;
+bottom:0;
+right:inherit;
+margin-bottom:1rem;
+}
+div#nouvelles div.ficheNouvelle a.bouton {
+bottom:-50px !important;
+}
+footer ul {
+padding-bottom:2rem;
+}
+footer div.droite {
+text-align:left;
+margin-top:2rem;
+}
+footer div.infoFooterImage {
+position:inherit;
+}
+footer div.infoFooter {
+position:inherit;
+}
+}
+
+
+/***********************************************************/
+/****************     Medium and up       ******************/
+/***********************************************************/
+@media screen and (min-width: 40em) {
+ul.listeFiche li {
+position:relative;
+float:left;
+width:50%;
+}
+}
+
+
+
+/***********************************************************/
+/*****************     Medium only       *******************/
+/***********************************************************/
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+div#header div#logo {
+position:relative;
+background-color:#FFFFFF;
+display:inline-block;
+width:100%;
+text-align:center;
+}
+div#header ul li a {
+font-size:0.875rem;
+}
+div.menuConteneur div.nav ul li a {
+padding:2rem 0.5rem;
+}
+div.menuConteneur div.mediaSociaux {
+padding:0.875rem 0 0 0;
+}
+div#bandeau div.infoCovid19 {
+right:2%;
+bottom:5%;
+padding:0.5rem;
+}
+div#bandeau div.infoCovid19 h2 {
+font-size:2.5rem;
+}
+div#bandeau div.infoCovid19 p {
+font-size:0.875rem;
+}
+form#formRechercheRapide {
+margin-top:0;
+margin-left:1rem;
+}
+h1 {
+font-size:3.5rem;	
+}
+.emphase {
+font-size:1.25rem;
+}
+div.infoContact div.large-6,
+div.infoContact div.large-6:last-child {
+padding:2rem;
+}
+div#main-content div.entetePage h1 {
+font-size:3rem;
+}
+ul.wizard li {
+width:49.5%;
+}
+div#calendrierEvenements {
+padding-bottom:3rem;
+}
+div#calendrierEvenements div.large-4 {
+padding:3.5rem 5% 3.5rem 5%;
+}
+div#calendrierEvenements div.large-4 a.bouton {
+margin-top:2rem;
+}
+div.vignetteEvenement {
+float:inherit;
+width:50%;
+margin:2.5rem 0 0 0;
+}
+div#carteTouristique {
+height:inherit;
+padding:2rem 0;
+}
+div#carteTouristique div.large-4 div.conteneurCarte {
+position:inherit;
+top:inherit;
+right:inherit;
+}
+div#carteTouristique div.large-8 {
+padding:0.75rem;
+}
+div#carteTouristique div.large-8 a.bouton {
+margin-top:0;
+}
+div.ficheEvenementPoster {
+height:360px;
+}
+div.ficheEvenementPosterContenu {
+height:360px;
+}
+div.evenementFiche {
+margin-top:2rem;
+}
+div#instagram {
+padding:2.5rem 0;
+}
+div#instagram div.large-4 ul {
+margin:0 0 2rem 0;
+}
+div#instagram div.large-4 p {
+font-size:1.125rem;
+}
+div#instagram div.large-8 div {
+margin:0.5rem 1%;
+width:48%;
+}
+div#nouvelles div.ficheNouvelle div {
+position:inherit;
+margin:2rem 0 0 0;
+top:inherit;
+left:inherit;
+}
+div#nouvelles div.large-5 a.bouton {
+position:inherit;
+bottom:0;
+right:inherit;
+margin-bottom:1rem;
+}
+div#nouvelles div.ficheNouvelle a.bouton {
+bottom:-50px !important;
+}
+div#mapbase {
+height:480px;
+}
+footer ul {
+padding-bottom:2rem;
+}
+footer div.droite {
+text-align:left;
+margin-top:2rem;
+}
+footer div.infoFooterImage {
+position:inherit;
+}
+footer div.infoFooter {
+position:inherit;
+}
+}
+
+
+/*******************     Medium fix     ********************/
+@media screen and (min-width: 59.4375em) and (max-width: 63.9375em) {
+div.menuConteneur div.mediaSociaux {
+padding:1.75rem 0 0 0 !important;
+}
+div.menuConteneur div.conteneurSousPage a {
+padding:3rem 1rem 1rem 1rem !important;
+}
+}
+
+
+/***********************************************************/
+/******************     Large and up     *******************/
+/***********************************************************/
+@media screen and (min-width: 64em) {
+}
+
+
+/***********************************************************/
+/*******************     Large only     ********************/
+/***********************************************************/
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+div#header div#logo img {
+width:140px;
+}
+div.menuConteneur div.mediaSociaux {
+position:relative;
+padding:0 0 1.25rem 0;
+}
+div.menuConteneur div.nav ul li a {
+padding:2rem 0.75rem;
+}
+div.menuConteneur div.conteneurSousPage a {
+padding:3rem 1rem 1rem 1rem !important;
+}
+div#bandeau div.infoCovid19 {
+right:2%;
+bottom:5%;
+padding:0.5rem;
+}
+div#bandeau div.infoCovid19 h2 {
+font-size:2.75rem;
+}
+div#bandeau div.infoCovid19 p {
+font-size:1rem;
+}
+div.menuConteneur div.mediaSociaux {
+margin-left:3rem;
+}
+form#formRechercheRapide {
+margin-left:1rem;
+}
+div.infoContact div.large-6 {
+padding:3rem 2rem 3rem 2rem;
+}
+div.infoContact div.large-6:last-child {
+padding:3rem 4rem;
+}
+div#calendrierEvenements div.large-4 h1 {
+font-size:2.5rem;
+}
+div#main-content div.entetePage h1 {
+font-size:3rem;
+}
+div#instagram h1 {
+font-size:3rem;
+}
+div#instagram div.large-4 p {
+font-size:1.25rem;
+margin-bottom:0;
+}
+div#instagram div.large-4 ul {
+margin:2rem 0 0 0;
+}
+div#instagram div.large-8 div {
+height:148px;
+}
+footer div.infoFooter {
+text-align:right;
+}
+}
+
+
+/***********************************************************/
+/*******************     xLarge only     *******************/
+/***********************************************************/
+@media screen and (min-width: 75em) and (max-width: 96.875em) {	
+div.menuConteneur div.conteneurSousPage a {
+padding:4rem 1rem 1rem 1rem !important;
+}
+div.menuConteneur div.mediaSociaux {
+position:relative;
+padding:0 0 1.25rem 0;
+}
+div.menuConteneur div.mediaSociaux {
+margin-left:1.75rem;
+}
+form#formRechercheRapide {
+margin-left:1rem;
+}
+div#calendrierEvenements div.large-4 h1 {
+font-size:3.25rem;
+}
+div#main-content div.entetePage h1 {
+font-size:3.5rem;
+}
+footer div.infoFooter {
+text-align:right;
+}
+}
+
+
+/***********************************************************/
+/*****************     xxLarge only         ****************/
+/***********************************************************/
+@media screen and (min-width: 97em) and (max-width: 109.875em) {	
+div.menuConteneur div.large-10 {
+width:90%;
+}
+div.menuConteneur div.large-offset-2 {
+margin-left:10%;
+}
+div.menuConteneur div.mediaSociaux {
+margin-left:6rem;
+}
+form#formRechercheRapide {
+margin-left:1rem;
+}
+div#calendrierEvenements div.large-4 h1 {
+font-size:4rem;
+}
+footer div.infoFooter {
+text-align:right;
+}
+}
+
+
+/***********************************************************/
+/***************     xxxLarge and up         ***************/
+/***********************************************************/
+@media screen and (min-width: 110em) {	
+div.menuConteneur div.large-10 {
+width:100%;
+}
+div.menuConteneur div.large-offset-2 {
+margin-left:0;
+}
+div.menuConteneur div.mediaSociaux {
+position:absolute;
+top:0;
+right:0;
+}
+footer div.infoFooter {
+text-align:right;
+}
+}
