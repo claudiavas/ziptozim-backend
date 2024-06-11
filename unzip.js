@@ -1,16 +1,23 @@
-const extract = require('extract-zip');
-const os = require('os');
 const path = require('path');
 const fs = require('fs');
+const util = require('util');
+const unlinkAsync = util.promisify(fs.unlink);
+const extract = require('extract-zip');
 
 async function unzipFile(file) {
-    // Create a temporary directory in the OS temp directory
-    const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), 'upload-'));
+    // Define the directory where the files will be extracted
+    const extractDir = path.join(__dirname, 'temp');
+
+    // Check if the directory exists, if not, create it
+    if (!fs.existsSync(extractDir)){
+        fs.mkdirSync(extractDir);
+    }
 
     // Extract the zip file
-    await extract(file.path, { dir: path.resolve(__dirname, tempDir) });
+    await extract(file.path, { dir: extractDir });
 
-    return tempDir;
+    // Delete the original zip file
+    await unlinkAsync(file.path);
 }
 
 module.exports = unzipFile;

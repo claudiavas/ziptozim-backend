@@ -1,17 +1,29 @@
-const { exec } = require('child_process');
+const { spawn } = require('child_process');
+const path = require('path');
 
-const zimwriterfsPath = './zimwriterfs'; // La ruta al ejecutable zimwriterfs
+let zimwriterfsPath = 'zimwriterfs';
 
-function createZimFile(sourceDirectory, outputFile, welcomePage, favicon, language, title, description, creator, publisher) {
-    const command = `${zimwriterfsPath} --welcome=${welcomePage} --favicon=${favicon} --language=${language} --title="${title}" --description="${description}" --creator=${creator} --publisher=${publisher} ${sourceDirectory} ${outputFile}`;
+exports.createZimFile = function(sourceDirectory, outputFile, welcomePage, illustration, language, title, description, creator, publisher) {
+    return new Promise((resolve, reject) => {
+        const outputFilePath = path.join(sourceDirectory, outputFile); // Add the sourceDirectory path to the outputFile
+        const command = [`--welcome=${welcomePage}`, `--illustration=${illustration}`, `--language=${language}`, `--title="${title}"`, `--description="${description}"`, `--creator=${creator}`, `--publisher=${publisher}`, sourceDirectory, outputFilePath];
+        console.log("Zimwriterfs command", command)
+        const zimwriterfs = spawn(zimwriterfsPath, command);
+        zimwriterfs.stdout.on('data', (data) => {
+            console.log(`stdout: ${data}`);
+        });
 
-    exec(command, (error, stdout, stderr) => {
-        if (error) {
-            console.error(`Error al crear el archivo ZIM: ${error}`);
-        } else {
-            console.log('Archivo ZIM creado con éxito');
-        }
+        zimwriterfs.stderr.on('data', (data) => {
+            console.error(`stderr: ${data}`);
+        });
+
+        zimwriterfs.on('close', (code) => {
+            console.log(`child process exited with code ${code}`);
+            if (code !== 0) {
+                reject(new Error(`zimwriterfs exited with code ${code}`));
+            } else {
+                resolve();
+            }
+        });
     });
 }
-
-module.exports = createZimFile;

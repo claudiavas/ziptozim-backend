@@ -1,18 +1,15 @@
-# Utiliza la imagen de zimwriterfs como base
-FROM darkenvy/zimwriterfs:latest AS zim-tools
-
-# Utiliza una imagen de Node.js
+# Use a Node.js image
 FROM node:20
 
-# Copia zim-tools al contenedor de Node.js
-COPY --from=zim-tools /usr/local /usr/local
+# Copy the zimwriterfs executable into the container
+COPY zimwriterfs /usr/local/bin/
 
-# Copia tu aplicación Node.js al contenedor
+# Copy your Node.js application into the container
 WORKDIR /app
 COPY . .
 
-# Instala las dependencias de tu aplicación
+# Install your application's dependencies
 RUN npm install
 
-# Inicia tu aplicación
+# Start your application
 CMD ["npm", "start"]
