@@ -3,10 +3,9 @@ const path = require('path');
 
 let zimwriterfsPath = path.join(__dirname, 'zimwriterfs');
 
-exports.createZimFile = function(sourceDirectory, outputFile, welcomePage, illustration, language, title, description, creator, publisher) {
+exports.createZimFile = function(sourceDirectory, zimFilePath, welcomePage, illustration, language, title, description, creator, publisher) {
     return new Promise((resolve, reject) => {
-        const outputFilePath = path.join(sourceDirectory, outputFile); // Add the sourceDirectory path to the outputFile
-        const command = [`--welcome=${welcomePage}`, `--illustration=${illustration}`, `--language=${language}`, `--title="${title}"`, `--description="${description}"`, `--creator=${creator}`, `--publisher=${publisher}`, sourceDirectory, outputFilePath];
+        const command = [`--welcome=${welcomePage}`, `--illustration=${illustration}`, `--language=${language}`, `--title="${title}"`, `--description="${description}"`, `--creator=${creator}`, `--publisher=${publisher}`, sourceDirectory, zimFilePath];
         console.log("Zimwriterfs command", command)
         const zimwriterfs = spawn(zimwriterfsPath, command);
         zimwriterfs.stdout.on('data', (data) => {

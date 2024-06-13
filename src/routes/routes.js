@@ -1,14 +1,16 @@
 const express = require("express");
 const multer = require("multer");
 const stream = require("stream");
-const upload = multer({ dest: "uploads/" })
 const { validationResult, check } = require("express-validator");
 const unzipFile = require("../../unzip");
 const { createZimFile } = require("../../zimWriters");
 const path = require("path");
+const tempDir = process.env.TEMP_DIR || "temp"; // Fallback to "temp" if TEMP_DIR is not set
+const uploadDir = process.env.UPLOAD_DIR || "uploads"; // Fallback to "uploads" if UPLOAD_DIR is not set
 const fs = require("fs");
-const { escape } = require("querystring");
 require("events").EventEmitter.defaultMaxListeners = 20;
+
+const upload = multer({ dest: uploadDir }); // Use UPLOAD_DIR for Multer destination
 
 const routes = express.Router();
 
@@ -49,13 +51,18 @@ routes.post(
       const timestamp = Date.now(); // Get the current timestamp
       console.log("timestamp", timestamp);
       const sourceDirectory = path.resolve(
-        process.cwd(),
-        "temp",
+        tempDir, // Use TEMP_DIR for the temporary directory
         String(timestamp)
       );
       fs.mkdirSync(sourceDirectory, { recursive: true }); // Ensure the directory exists
-      await unzipFile(req.file, sourceDirectory);
+
+      // Create a subdirectory named 'html' inside the sourceDirectory
+      const htmlDirectory = path.join(sourceDirectory, 'html');
+      fs.mkdirSync(htmlDirectory, { recursive: true }); // Ensure the html directory exists
+      
+      await unzipFile(req.file, htmlDirectory);
       console.log("source Directory", sourceDirectory);
+      console.log("html Directory", htmlDirectory);
 
       // Extract the filename without the extension
       const filename = path.parse(req.file.originalname).name;
@@ -71,7 +78,7 @@ routes.post(
 
       try { 
         await createZimFile(
-          sourceDirectory,
+          htmlDirectory,
           zimFilePath,
           escapeHtml(req.body.welcomePage),
           escapeHtml(req.body.favicon),
@@ -103,16 +110,22 @@ routes.post(
       zimFileReadStream.pipe(res);
 
       // Cleanup after sending the file
-      zimFileReadStream.on("end", () => {
-        try {
-          console.log("File stream ended. Cleaning up...");
-          //fs.unlinkSync(zimFilePath); // Delete the ZIM file
-          //fs.rmdirSync(sourceDirectory, { recursive: true }); // Delete the temporary directory
-          console.log("Cleanup successful.");
-        } catch (cleanupErr) {
-          console.error("Error during cleanup:", cleanupErr);
-        }
-      });
+      // zimFileReadStream.on("end", () => {
+      //   try {
+      //     console.log("File stream ended. Cleaning up...");
+      //     fs.unlink(zimFilePath, (err) => { // Use async version for non-blocking operation
+      //       if (err) console.error("Error deleting ZIM file:", err);
+      //       else console.log(`${zimFilePath} was deleted.`);
+      //     });
+      //     fs.rmdir(sourceDirectory, { recursive: true }, (err) => { // Use async version for non-blocking operation
+      //       if (err) console.error("Error deleting source directory:", err);
+      //       else console.log(`${sourceDirectory} was deleted.`);
+      //     });
+      //     console.log("Cleanup successful.");
+      //   } catch (cleanupErr) {
+      //     console.error("Error during cleanup:", cleanupErr);
+      //   }
+      // });
     } catch (err) {
       console.error(err);
       res.status(500).send({

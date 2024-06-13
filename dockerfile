@@ -6,6 +6,9 @@ COPY zimwriterfs /usr/local/bin/
 
 # Set the working directory
 WORKDIR /app
+ENV TEMP_DIR=/app/temp
+ENV UPLOAD_DIR=/app/upload
+
 
 # Copy package.json and package-lock.json (if available)
 COPY package*.json ./
