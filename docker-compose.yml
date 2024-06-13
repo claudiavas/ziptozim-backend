@@ -6,5 +6,7 @@ services:
     volumes:
       - .:/app
       - ./temp:/app/temp
+      - ./logs:/app/logs # Monta un directorio logs del host en /app/logs dentro del contenedor
+      
     ports:
       - "3019:3019"
