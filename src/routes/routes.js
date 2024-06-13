@@ -7,6 +7,7 @@ const unzipFile = require("../../unzip");
 const { createZimFile } = require("../../zimWriters");
 const path = require("path");
 const fs = require("fs");
+const { escape } = require("querystring");
 require("events").EventEmitter.defaultMaxListeners = 20;
 
 const routes = express.Router();
@@ -68,14 +69,17 @@ routes.post(
 
       console.log("Preparando para crear archivo ZIM...");
 
-      try {
+      try { 
         await createZimFile(
-          path.join(sourceDirectory, "welcomePage"),
-          path.join(sourceDirectory, "favicon"),
+          sourceDirectory,
+          zimFilePath,
+          escapeHtml(req.body.welcomePage),
+          escapeHtml(req.body.favicon),
           escapeHtml(req.body.language),
           escapeHtml(req.body.title),
           escapeHtml(req.body.description),
-          escapeHtml(req.body.creator)
+          escapeHtml(req.body.creator),
+          escapeHtml(req.body.publisher)
         );
         console.log("Archivo ZIM creado exitosamente.");
         // Continuar con el resto del código después de la creación del archivo ZIM
@@ -102,8 +106,8 @@ routes.post(
       zimFileReadStream.on("end", () => {
         try {
           console.log("File stream ended. Cleaning up...");
-          fs.unlinkSync(zimFilePath); // Delete the ZIM file
-          fs.rmdirSync(sourceDirectory, { recursive: true }); // Delete the temporary directory
+          //fs.unlinkSync(zimFilePath); // Delete the ZIM file
+          //fs.rmdirSync(sourceDirectory, { recursive: true }); // Delete the temporary directory
           console.log("Cleanup successful.");
         } catch (cleanupErr) {
           console.error("Error during cleanup:", cleanupErr);
