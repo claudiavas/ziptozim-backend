@@ -4,9 +4,11 @@ const util = require('util');
 const unlinkAsync = util.promisify(fs.unlink);
 const extract = require('extract-zip');
 
-async function unzipFile(file) {
-    // Define the directory where the files will be extracted
-    const extractDir = path.join(__dirname, 'temp');
+async function unzipFile(file, extractDir) {
+    // Check if the file is defined
+    if (!file) {
+        throw new Error('File is undefined');
+    }
 
     // Check if the directory exists, if not, create it
     if (!fs.existsSync(extractDir)){

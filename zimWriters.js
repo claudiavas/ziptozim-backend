@@ -1,7 +1,7 @@
 const { spawn } = require('child_process');
 const path = require('path');
 
-let zimwriterfsPath = 'zimwriterfs';
+let zimwriterfsPath = path.join(__dirname, 'zimwriterfs');
 
 exports.createZimFile = function(sourceDirectory, outputFile, welcomePage, illustration, language, title, description, creator, publisher) {
     return new Promise((resolve, reject) => {
