@@ -11,6 +11,9 @@ const fs = require("fs");
 const routes = express.Router();
 
 function escapeHtml(unsafe) {
+  if (typeof unsafe !== 'string') {
+    return '';
+  }
   return unsafe
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -31,7 +34,8 @@ routes.post("/upload", upload.single("inputFile"), async (req, res, next) => {
         console.log("source Directory", sourceDirectory);
 
         // Extract the filename without the extension
-        const filename = path.parse(req.file.inputFile).name;
+        const filename = path.parse(req.file.originalname).name;
+        console.log("filename", filename);
 
         // Use the filename for the output file, but change the extension to .zim
         const outputFile = `${filename}.zim`;
@@ -46,7 +50,6 @@ routes.post("/upload", upload.single("inputFile"), async (req, res, next) => {
         // Pass the stream instead of a file path to createZimFile
         await createZimFile(
             zimFilePath,
-            zimStream,
             escapeHtml(req.body.welcomePage),
             escapeHtml(req.body.favicon),
             escapeHtml(req.body.language),
@@ -58,7 +61,7 @@ routes.post("/upload", upload.single("inputFile"), async (req, res, next) => {
 
         // Set the Content-Disposition header to make the browser download the file
         res.setHeader("Content-Disposition", `attachment; filename=${outputFile}`);
-        
+
         // Send the ZIM file in the response
         zimStream.pipe(res);
     } catch (err) {
