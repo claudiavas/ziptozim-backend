@@ -2,3 +2,4 @@ node_modules
 websites
 temp
 uploads
+.DS_Store

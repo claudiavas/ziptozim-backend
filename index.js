@@ -5,7 +5,13 @@ const routes = require('./src/routes/routes'); // Asegúrate de que la ruta sea 
 const app = express();
 const port = 3019;
 
-app.use(cors());
+// Configuración de CORS para permitir solicitudes desde tu frontend
+const corsOptions = {
+    origin: 'https://ziptozim.up.railway.app', // Ajusta esto a la URL de tu frontend
+    optionsSuccessStatus: 200 // Algunos navegadores antiguos (IE11, varios SmartTVs) se bloquean con 204
+};
+
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(routes);
 
