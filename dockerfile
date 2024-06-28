@@ -2,7 +2,7 @@
 FROM node:20
 
 # Copy the zimwriterfs executable into the container
-COPY zimwriterfs /usr/local/bin/
+COPY /src/bin/zimwriterfs /usr/local/bin/
 
 # Set the working directory
 WORKDIR /app
@@ -20,4 +20,5 @@ RUN npm install
 COPY . .
 
 # Start your application
-CMD ["npm", "run", "prod"]
+#CMD ["npm", "run", "prod"]
+CMD ["npm", "run", "start"]

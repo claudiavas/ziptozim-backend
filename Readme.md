@@ -11,7 +11,7 @@ curl -X POST -H "Content-Type: multipart/form-data" -F "inputFile=@greybox.zip" 
 ## Docker Commands
 
 docker build -t ziptozim .
-docker run -it ziptozim
+docker run -p 3500:3500 ziptozim
 
 ## Node JS Dependencies
 

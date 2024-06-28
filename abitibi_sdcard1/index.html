@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./abitibi_favicon.png" type="image/png" />
+    <title>Document</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        img {
+            height: calc(100vh / 2);
+            width: auto;
+            display: block;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            border-radius: 50px;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+            background-color: #ffffff;
+            transition: all 0.3s ease 0s;
+        }
+
+        button:hover {
+            box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.2);
+            transform: translateY(-3px);
+        }
+
+        button a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        button a:hover {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        div {
+            display: flex;
+            justify-content: space-around;
+            width: 100%;
+            max-width: calc(100vh / 2);
+        }
+
+    </style>
+</head>
+<body>
+    <img src="logo-ao.jpg" alt="Logo">
+    <div>
+        <button><a href="/tourisme.ao.ca/fr/index.htm" target="_blank">Français</a></button>
+        <button><a href="/tourisme.ao.ca/en/index.htm" target="_blank">English</a></button>
+    </div>
+</body>
+</html>
