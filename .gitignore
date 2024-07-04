@@ -3,3 +3,5 @@ websites
 temp
 uploads
 .DS_Store
+.devcontainer
+.github
