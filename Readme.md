@@ -4,7 +4,7 @@ ZiptoZim it´s an Api that allows users to send an http request to convert a web
 
 ## Testing Command
 
-curl -X POST -H "Content-Type: multipart/form-data" -F "inputFile=@greybox.zip" -F "outputFile=greyboxoutput.zim" -F "welcomePage=index.html" -F "favicon=favicon.png" -F "language=eng" -F "title=Our Website" -F "description= " -F "creator=Wikipedia" -F "publisher=Me" http://localhost:3019/convert
+curl -v -X POST -H "Content-Type: multipart/form-data" -F "inputFile=@greybox.zip" -F "outputFile=greyboxoutput.zim" -F "welcomePage=index.html" -F "favicon=favicon.png" -F "language=eng" -F "title=Our Website" -F "description= " -F "creator=Wikipedia" -F "publisher=Me" <http://localhost:3500/createZim>
 
 ## Docker Commands
 

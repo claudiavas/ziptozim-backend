@@ -33,33 +33,55 @@ function escapeHtml(unsafe: string): string {
 }
 
 /**
- * Route for handling POST requests to '/zimWriter'. It processes the uploaded file to create a ZIM file.
- * The route uses multer for handling file uploads, express-validator for input validation, and custom
- * logic for generating the ZIM file.
+ * Validates the request before creating a ZIM file using express-validator.
+ * @param req The request object.
+ * @param res The response object.
+ * @param next The next middleware function.
  */
-routes.post(
-  "/createZim",
-  upload.single("inputFile"),
+function validateRequest(req: Request, res: Response, next: NextFunction) {
   [
-    // checks if inputFile is not empty
     check("inputFile").custom((value, { req }) => {
       if (!(req as Request).file) {
         throw new Error("inputFile is required");
       }
       return true;
     }),
-  ],
-  async (req: Request, res: Response, next: NextFunction) => {
-    const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-      return res.status(400).json({ errors: errors.array() });
-    }
+    check("welcomePage").notEmpty().withMessage("welcomePage is required"),
+    check("favicon").isURL().withMessage("favicon must be a valid URL"),
+    check("language").notEmpty().withMessage("language is required"),
+    check("title").isLength({ min: 3 }).withMessage("title must be at least 3 characters long"),
+    check("description").notEmpty().withMessage("description is required"),
+    check("creator").notEmpty().withMessage("creator is required"),
+    check("publisher").notEmpty().withMessage("publisher is required"),
+  ].forEach(validation => validation.run(req));
 
+  const errors = validationResult(req);
+  if (!errors.isEmpty()) {
+    return res.status(400).json({ errors: errors.array() });
+  }
+  next();
+}
+
+/**
+ * Route for handling POST requests to '/zimWriter'. It processes the uploaded file to create a ZIM file.
+ * The route uses multer for handling file uploads, express-validator for input validation, and custom
+ * logic for generating the ZIM file.
+ */
+routes.post(
+  "/createZim",
+  upload.single("inputFile"), // multer middleware
+  
+  validateRequest, // Call the validateRequest middleware to validate the data received in the request
+  
+  async (req: Request, res: Response, next: NextFunction) => {
+    
     if (!req.file) {
       return res.status(400).send({ message: "No file uploaded" });
     }
+
     try {
   
+      // Unzip the uploaded file to a temporary directory
       const { sourceDirectory, htmlDirectory } = await unzipFile(req.file, tempDir);
       console.log("source Directory", sourceDirectory);
       console.log("html Directory", htmlDirectory);
