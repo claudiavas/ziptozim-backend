@@ -11,7 +11,14 @@ EventEmitter.defaultMaxListeners = 20;
 const tempDir: string = process.env.TEMP_DIR || "temp"; // Fallback to "temp" if TEMP_DIR is not set
 const uploadDir: string = process.env.UPLOAD_DIR || "uploads"; // Fallback to "uploads" if UPLOAD_DIR is not set
 
-const upload = multer({ dest: uploadDir }); // Use UPLOAD_DIR for Multer destination
+const upload = multer({ 
+  dest: uploadDir,
+  limits: {
+    fileSize: 500 * 1024 * 1024, // 500 MB limit
+    fieldSize: 500 * 1024 * 1024, // 500 MB limit
+    files: 1, // Only one file allowed
+    fields: 7 // Only 7 fields allowed
+  } }); // Use UPLOAD_DIR for Multer destination
 
 const routes = express.Router();
 
