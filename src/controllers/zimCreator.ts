@@ -48,6 +48,8 @@ export function createZimFile(
     // Spawn the zimwriterfs process
     const zimwriterfs = spawn(zimwriterfsPath, command);
 
+    let stderrData = '';
+
     // Log stdout data
     zimwriterfs.stdout.on('data', (data: Buffer) => {
       console.log(`stdout: ${data}`);
@@ -55,6 +57,7 @@ export function createZimFile(
 
     // Log stderr data
     zimwriterfs.stderr.on('data', (data: Buffer) => {
+      stderrData += data.toString();
       console.error(`stderr: ${data}`);
     });
 
@@ -62,7 +65,7 @@ export function createZimFile(
     zimwriterfs.on('close', (code: number) => {
       console.log(`child process exited with code ${code}`);
       if (code !== 0) {
-        reject(new Error(`zimwriterfs exited with code ${code}`));
+        reject(new Error(stderrData));
       } else {
         resolve();
       }

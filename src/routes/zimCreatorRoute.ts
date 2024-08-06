@@ -1,7 +1,7 @@
 import express, { Request, Response, NextFunction } from "express";
 import multer from "multer";
 import { validationResult, check } from "express-validator";
-import unzipFile from '../utils/unzip'
+import unzipFile from "../utils/unzip";
 import { createZimFile } from "../controllers/zimCreator";
 import path from "path";
 import fs from "fs";
@@ -11,14 +11,15 @@ EventEmitter.defaultMaxListeners = 20;
 const tempDir: string = process.env.TEMP_DIR || "temp"; // Fallback to "temp" if TEMP_DIR is not set
 const uploadDir: string = process.env.UPLOAD_DIR || "uploads"; // Fallback to "uploads" if UPLOAD_DIR is not set
 
-const upload = multer({ 
+const upload = multer({
   dest: uploadDir,
   limits: {
     fileSize: 500 * 1024 * 1024, // 500 MB limit
     fieldSize: 500 * 1024 * 1024, // 500 MB limit
     files: 1, // Only one file allowed
-    fields: 7 // Only 7 fields allowed
-  } }); // Use UPLOAD_DIR for Multer destination
+    fields: 7, // Only 7 fields allowed
+  },
+}); // Use UPLOAD_DIR for Multer destination
 
 const routes = express.Router();
 
@@ -56,11 +57,13 @@ function validateRequest(req: Request, res: Response, next: NextFunction) {
     check("welcomePage").notEmpty().withMessage("welcomePage is required"),
     check("favicon").isURL().withMessage("favicon must be a valid URL"),
     check("language").notEmpty().withMessage("language is required"),
-    check("title").isLength({ min: 3 }).withMessage("title must be at least 3 characters long"),
+    check("title")
+      .isLength({ min: 3 })
+      .withMessage("title must be at least 3 characters long"),
     check("description").notEmpty().withMessage("description is required"),
     check("creator").notEmpty().withMessage("creator is required"),
     check("publisher").notEmpty().withMessage("publisher is required"),
-  ].forEach(validation => validation.run(req));
+  ].forEach((validation) => validation.run(req));
 
   const errors = validationResult(req);
   if (!errors.isEmpty()) {
@@ -77,19 +80,20 @@ function validateRequest(req: Request, res: Response, next: NextFunction) {
 routes.post(
   "/createZim",
   upload.single("inputFile"), // multer middleware
-  
+
   validateRequest, // Call the validateRequest middleware to validate the data received in the request
-  
+
   async (req: Request, res: Response, next: NextFunction) => {
-    
     if (!req.file) {
       return res.status(400).send({ message: "No file uploaded" });
     }
 
     try {
-  
       // Unzip the uploaded file to a temporary directory
-      const { sourceDirectory, htmlDirectory } = await unzipFile(req.file, tempDir);
+      const { sourceDirectory, htmlDirectory } = await unzipFile(
+        req.file,
+        tempDir
+      );
       console.log("source Directory", sourceDirectory);
       console.log("html Directory", htmlDirectory);
 
@@ -105,7 +109,7 @@ routes.post(
 
       console.log("Preparando para crear archivo ZIM...");
 
-      try { 
+      try {
         await createZimFile(
           htmlDirectory,
           zimFilePath,
@@ -120,8 +124,21 @@ routes.post(
         console.log("Archivo ZIM creado exitosamente.");
         // Continuar con el resto del código después de la creación del archivo ZIM
       } catch (error) {
-        console.error("Error al crear el archivo ZIM:", error);
-        // Manejar el error adecuadamente
+        console.error("Error creating ZIM file", error);
+
+        let errorMessage = "An unknown error occurred";
+        let errorDetails = "";
+
+        if (error instanceof Error) {
+          errorMessage = error.message;
+          errorDetails = error.stack || "";
+        }
+
+        return res.status(500).json({
+          message: "Error creating ZIM file",
+          error: errorMessage,
+          details: errorDetails || "No additional details provided"
+        });
       }
 
       // Set the Content-Disposition header to make the browser download the file
@@ -138,7 +155,8 @@ routes.post(
       zimFileReadStream.on("end", () => {
         try {
           console.log("File stream ended. Cleaning up...");
-          fs.unlink(zimFilePath, (err) => { // Use async version for non-blocking operation
+          fs.unlink(zimFilePath, (err) => {
+            // Use async version for non-blocking operation
             if (err) console.error("Error deleting ZIM file:", err);
             else console.log(`${zimFilePath} was deleted.`);
           });
@@ -160,7 +178,7 @@ routes.post(
       }
       res.status(500).send({
         message: "Error uploading and unzipping the file.",
-        error: errorMessage
+        error: errorMessage,
       });
     }
   }
